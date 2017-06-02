@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>TRICK WORK office web</title>
+<link rel="alternate" href="https://anatofuz.github.io/trickwork_website/" />
+<author>AnaTofuZ</author>
+<generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.8">Perl Riji</generator>
+<id>tag:anatofuz.github.io,2017-06-02:trickwork_website:</id>
+<updated>2017-06-02T21:59:23+09:00</updated>
+<entry>
+<title type="text">TRICK WORK</title>
+<link href="https://anatofuz.github.io/trickwork_website/entry/start.html" />
+<author>
+<name>AnaTofuZ</name>
+</author>
+<content type="html">
+<![CDATA[
+
+<p>Rijiを使って設立</p>
+]]></content>
+<id>tag:anatofuz.github.io,2017-06-02:trickwork_website:entry-start.html</id>
+<published>2017-06-02T21:59:23+09:00</published>
+<updated>2017-06-02T21:59:23+09:00</updated>
+</entry>
+</feed>
