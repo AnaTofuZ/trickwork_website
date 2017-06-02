@@ -5,7 +5,7 @@
 <author>AnaTofuZ</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.8">Perl Riji</generator>
 <id>tag:anatofuz.github.io,2017-06-02:trickwork_website:</id>
-<updated>2017-06-02T22:54:45+09:00</updated>
+<updated>2017-06-02T23:04:59+09:00</updated>
 <entry>
 <title type="text">TRICK WORK</title>
 <link href="https://anatofuz.github.io/trickwork_website/entry/start.html" />
@@ -25,8 +25,10 @@
 
 <p>当社を信頼して頂ける方はメールにてお問い合わせください．</p>
 
-<pre><code>    &lt;trickwork@earth.ocn.ne.jp&gt;
-</code></pre>
+<div style="text-align:center;">
+<trickwork@earth.ocn.ne.jp>
+</div>
+
 
 <ul>
 <li>有限会社 TRICK WORK</li>
@@ -38,6 +40,6 @@
 ]]></content>
 <id>tag:anatofuz.github.io,2017-06-02:trickwork_website:entry-start.html</id>
 <published>2017-06-02T21:59:23+09:00</published>
-<updated>2017-06-02T22:54:45+09:00</updated>
+<updated>2017-06-02T23:04:59+09:00</updated>
 </entry>
 </feed>
