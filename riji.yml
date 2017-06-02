@@ -1,4 +1,4 @@
 author:   'AnaTofuZ'
 title:    "TRICK WORK office web"
 site_url: 'https://anatofuz.github.io/trickwork_website/'
-publish_dir: '.'
+branch: 'gh-pages'
