@@ -11,9 +11,7 @@
 
 当社を信頼して頂ける方はメールにてお問い合わせください．
 
-<div style="text-align:center;">
 <trickwork@earth.ocn.ne.jp>
-</div>
 
 - 有限会社 TRICK WORK
 - 山梨県南アルプス市飯野3701-1 オギノテナントビル2F
